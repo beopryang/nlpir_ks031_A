@@ -1,0 +1,3311 @@
+[
+  {
+    "query_id": 1,
+    "task_id": 1,
+    "task_name": "광주광역시의회 교육문화 분야 학교 예산 집행 문제 검색",
+    "task_query": "광주광역시의회 교육문화 분야 학교 예산 집행 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교육",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 교육문화 분야 학교 예산 집행 문제"
+    }
+  },
+  {
+    "query_id": 2,
+    "task_id": 1,
+    "task_name": "광주광역시의회 재개발 지역 교통 혼잡 문제",
+    "task_query": "광주광역시의회 재개발 지역 교통 혼잡 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "재개발",
+        "교통",
+        "혼잡"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 재개발 지역 교통 혼잡 문제"
+    }
+  },
+  {
+    "query_id": 3,
+    "task_id": 1,
+    "task_name": "광주광역시의회 환경 분야 미세먼지 대응 논의 검색",
+    "task_query": "광주광역시의회 환경 분야 미세먼지 대응 논의",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "환경",
+        "미세먼지"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 환경 미세먼지 대응 논의"
+    }
+  },
+  {
+    "query_id": 4,
+    "task_id": 1,
+    "task_name": "광주광역시의회 청년 일자리 정책 비판 발언 검색",
+    "task_query": "광주광역시의회 청년 일자리 정책 비판 발언",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "청년",
+        "일자리",
+        "정책",
+        "비판"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 청년 일자리 정책 비판 발언"
+    }
+  },
+  {
+    "query_id": 5,
+    "task_id": 1,
+    "task_name": "광주광역시의회 통학로 안전 문제 제기",
+    "task_query": "광주광역시의회 통학로 안전 문제 제기 및 관련 주요 쟁점",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "통학로 안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 통학로 안전 문제 쟁점"
+    }
+  },
+  {
+    "query_id": 6,
+    "task_id": 1,
+    "task_name": "광주광역시의회 예산결산특별위원회 예산 집행 부실 관련 회의록 검색",
+    "task_query": "광주광역시의회 예산결산특별위원회 예산 집행 부실 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "예산",
+        "집행",
+        "부실"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 예산결산특별위원회 예산 집행 부실 문제"
+    }
+  },
+  {
+    "query_id": 7,
+    "task_id": 1,
+    "task_name": "광주광역시의회 복지시설 인력 부족 문제",
+    "task_query": "광주광역시의회 복지시설 인력 부족 문제 제기",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "복지시설",
+        "인력 부족"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 복지시설 인력 부족 문제"
+    }
+  },
+  {
+    "query_id": 8,
+    "task_id": 1,
+    "task_name": "광주광역시의회 CCTV 설치·운영 개선 논의 검색",
+    "task_query": "광주광역시의회 CCTV 설치 운영 개선 논의",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "CCTV",
+        "설치",
+        "운영",
+        "개선"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 CCTV 설치 운영 개선 논의"
+    }
+  },
+  {
+    "query_id": 9,
+    "task_id": 1,
+    "task_name": "광주광역시의회 공공임대주택 공급 부족 문제",
+    "task_query": "광주광역시의회 공공임대주택 공급 부족 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "공공임대주택",
+        "공급 부족"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 공공임대주택 공급 부족 문제"
+    }
+  },
+  {
+    "query_id": 10,
+    "task_id": 1,
+    "task_name": "광주광역시의회 교통 분야 시내버스 배차 문제 발언 검색",
+    "task_query": "광주광역시의회 교통 분야 시내버스 배차 문제 발언",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교통",
+        "시내버스",
+        "배차"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 교통 시내버스 배차 문제 발언"
+    }
+  },
+  {
+    "query_id": 11,
+    "task_id": 1,
+    "task_name": "광주광역시의회 학교 급식 질 개선 논의",
+    "task_query": "광주광역시의회 학교 급식 질 개선 논의",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "학교 급식",
+        "질 개선"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 학교 급식 질 개선 논의"
+    }
+  },
+  {
+    "query_id": 12,
+    "task_id": 1,
+    "task_name": "광주광역시의회 학교시설 노후화 발언 검색",
+    "task_query": "광주광역시의회 학교시설 노후화 문제 발언",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "학교시설",
+        "노후화"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 학교시설 노후화 문제 발언"
+    }
+  },
+  {
+    "query_id": 13,
+    "task_id": 1,
+    "task_name": "광주광역시의회 반려동물 환경 정책 논의 검색",
+    "task_query": "광주광역시의회 반려동물 환경 정책 개선 논의",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "반려동물",
+        "환경",
+        "정책 개선"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 반려동물 환경 정책 개선 논의"
+    }
+  },
+  {
+    "query_id": 14,
+    "task_id": 1,
+    "task_name": "광주광역시의회 장애인 이동권 문제 제기 내용 검색",
+    "task_query": "광주광역시의회 장애인 이동권 문제 제기",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "장애인",
+        "이동권"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 장애인 이동권 문제 제기"
+    }
+  },
+  {
+    "query_id": 15,
+    "task_id": 1,
+    "task_name": "광주광역시의회 도시철도 2호선 사업 쟁점 검색",
+    "task_query": "광주광역시의회 도시철도 2호선 사업 쟁점",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "도시철도",
+        "사업",
+        "쟁점"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 도시철도 2호선 사업 쟁점"
+    }
+  },
+  {
+    "query_id": 16,
+    "task_id": 1,
+    "task_name": "광주광역시의회 주차난 해소 정책 발언 검색",
+    "task_query": "광주광역시의회 주차난 해소 정책 관련 발언",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "주차난",
+        "주차"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 주차난 해소 정책 발언"
+    }
+  },
+  {
+    "query_id": 17,
+    "task_id": 1,
+    "task_name": "광주광역시의회 공공의료원 설립 필요성 논의 검색",
+    "task_query": "광주광역시의회 공공의료원 설립 필요성 논의",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "공공의료원",
+        "설립",
+        "의료"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 공공의료원 설립 필요성 논의"
+    }
+  },
+  {
+    "query_id": 18,
+    "task_id": 1,
+    "task_name": "광주광역시의회 기후위기 대응 예산 부족 문제 검색",
+    "task_query": "광주광역시의회 기후위기 대응 예산 부족 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "기후위기",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 기후위기 대응 예산 부족 문제"
+    }
+  },
+  {
+    "query_id": 19,
+    "task_id": 1,
+    "task_name": "광주광역시의회 경로당 냉난방비 지원 문제 제기",
+    "task_query": "광주광역시의회 경로당 냉난방비 지원 문제 제기",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "경로당",
+        "냉난방비 지원"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 경로당 냉난방비 지원 문제"
+    }
+  },
+  {
+    "query_id": 20,
+    "task_id": 1,
+    "task_name": "광주광역시의회 문화예술 지원 정책 논의 검색",
+    "task_query": "광주광역시의회 문화예술 지원 정책 형평성 논의",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "문화예술",
+        "지원",
+        "형평성"
+      ],
+      "is_comparative": true,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 문화예술 지원 정책 형평성 논의"
+    }
+  },
+  {
+    "query_id": 21,
+    "task_id": 1,
+    "task_name": "서울특별시의회 대중교통 요금 인상 논의 검색",
+    "task_query": "서울특별시의회 대중교통 요금 인상 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "대중교통",
+        "요금",
+        "인상"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 대중교통 요금 인상 논의"
+    }
+  },
+  {
+    "query_id": 22,
+    "task_id": 1,
+    "task_name": "서울특별시의회 재개발 원주민 내몰림 문제 논의",
+    "task_query": "서울특별시의회 재개발로 인한 원주민 내몰림 문제 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "재개발",
+        "원주민 내몰림"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 재개발 원주민 내몰림 문제 논의"
+    }
+  },
+  {
+    "query_id": 23,
+    "task_id": 1,
+    "task_name": "서울특별시의회 청년 정신건강 지원 논의 검색",
+    "task_query": "서울특별시의회 청년 정신건강 지원 관련 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "청년",
+        "정신건강",
+        "지원"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 청년 정신건강 지원 논의"
+    }
+  },
+  {
+    "query_id": 24,
+    "task_id": 1,
+    "task_name": "서울특별시의회 재정 건전성 발언 검색",
+    "task_query": "서울특별시의회 재정 건전성 관련 발언",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "재정 건전성"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 재정 건전성 발언"
+    }
+  },
+  {
+    "query_id": 25,
+    "task_id": 1,
+    "task_name": "서울특별시의회 전동 킥보드 안전사고 논의 검색",
+    "task_query": "서울특별시의회 전동 킥보드 안전사고 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "전동 킥보드",
+        "안전사고"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 전동 킥보드 안전사고 논의"
+    }
+  },
+  {
+    "query_id": 26,
+    "task_id": 1,
+    "task_name": "서울특별시의회 학급당 학생 수 논의 검색",
+    "task_query": "서울특별시의회 학급당 학생 수 문제 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "학급당 학생 수"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 학급당 학생 수 문제 논의"
+    }
+  },
+  {
+    "query_id": 27,
+    "task_id": 1,
+    "task_name": "서울특별시의회 탄소중립 정책 논의 검색",
+    "task_query": "서울특별시의회 탄소중립 정책 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "탄소중립"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 탄소중립 정책 논의"
+    }
+  },
+  {
+    "query_id": 28,
+    "task_id": 1,
+    "task_name": "서울특별시의회 지하철 혼잡 완화 정책 논의 검색",
+    "task_query": "서울특별시의회 지하철 혼잡 완화 정책 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "지하철",
+        "혼잡",
+        "완화",
+        "정책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 지하철 혼잡 완화 정책 논의"
+    }
+  },
+  {
+    "query_id": 29,
+    "task_id": 1,
+    "task_name": "서울특별시의회 소상공인 지원 정책 논의 검색",
+    "task_query": "서울특별시의회 소상공인 지원 정책 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "소상공인 지원"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 소상공인 지원 정책 논의"
+    }
+  },
+  {
+    "query_id": 30,
+    "task_id": 1,
+    "task_name": "서울특별시의회 CCTV 설치 개선 발언 검색",
+    "task_query": "서울특별시의회 CCTV 설치 개선 관련 발언",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "CCTV",
+        "설치",
+        "개선"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 CCTV 설치 개선 발언"
+    }
+  },
+  {
+    "query_id": 31,
+    "task_id": 1,
+    "task_name": "서울특별시의회 노인 복지시설 운영 문제 검색",
+    "task_query": "서울특별시의회 노인 복지시설 운영 문제",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "노인복지",
+        "복지시설",
+        "운영"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "노인 복지시설 운영 문제"
+    }
+  },
+  {
+    "query_id": 32,
+    "task_id": 1,
+    "task_name": "서울특별시의회 공공데이터 개방 쟁점 검색",
+    "task_query": "서울특별시의회 공공데이터 개방 관련 쟁점",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "공공데이터",
+        "개방"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 공공데이터 개방 쟁점"
+    }
+  },
+  {
+    "query_id": 33,
+    "task_id": 1,
+    "task_name": "서울특별시의회 어린이 보호구역 교통안전 논의",
+    "task_query": "서울특별시의회 어린이 보호구역 교통안전 문제 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "어린이 보호구역",
+        "교통안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 어린이 보호구역 교통안전 문제 논의"
+    }
+  },
+  {
+    "query_id": 34,
+    "task_id": 1,
+    "task_name": "서울특별시의회 도시재생 정책 지역 격차 문제",
+    "task_query": "서울특별시의회 도시재생 정책에서 지역 격차 문제",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "도시재생",
+        "지역 격차"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 도시재생 정책 지역 격차 문제"
+    }
+  },
+  {
+    "query_id": 35,
+    "task_id": 1,
+    "task_name": "서울특별시의회 문화예술 지원 정책 논의 검색",
+    "task_query": "서울특별시의회 문화예술 지원 정책 관련 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "문화예술",
+        "지원",
+        "정책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 문화예술 지원 정책 논의"
+    }
+  },
+  {
+    "query_id": 36,
+    "task_id": 1,
+    "task_name": "서울특별시의회 지하철 역사 범죄 예방 대책 발언 검색",
+    "task_query": "서울특별시의회 지하철 역사 범죄 예방 대책 관련 발언",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "지하철",
+        "범죄 예방",
+        "대책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 지하철 역사 범죄 예방 대책 발언"
+    }
+  },
+  {
+    "query_id": 37,
+    "task_id": 1,
+    "task_name": "서울특별시의회 청년 복지 전달체계 문제 논의 검색",
+    "task_query": "서울특별시의회 청년 복지 전달체계 문제 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "청년",
+        "복지",
+        "전달체계"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 청년 복지 전달체계 문제 논의"
+    }
+  },
+  {
+    "query_id": 38,
+    "task_id": 1,
+    "task_name": "서울특별시의회 성과평가 제도 논의 검색",
+    "task_query": "서울특별시의회 성과평가 제도 관련 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "성과평가"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 성과평가 제도 논의"
+    }
+  },
+  {
+    "query_id": 39,
+    "task_id": 1,
+    "task_name": "서울특별시의회 도시철도 연장 사업 비용 문제",
+    "task_query": "서울특별시의회 도시철도 연장 사업 비용 관련 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "도시철도",
+        "연장",
+        "사업",
+        "비용"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 도시철도 연장 사업 비용 논의"
+    }
+  },
+  {
+    "query_id": 39,
+    "task_id": 2,
+    "task_name": "서울특별시의회 도시철도 연장 사업 효과 문제",
+    "task_query": "서울특별시의회 도시철도 연장 사업 효과 관련 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "도시철도",
+        "연장",
+        "사업",
+        "효과"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 도시철도 연장 사업 효과 논의"
+    }
+  },
+  {
+    "query_id": 40,
+    "task_id": 1,
+    "task_name": "서울특별시의회 전월세 시장 안정화 정책 논의 검색",
+    "task_query": "서울특별시의회 전월세 시장 안정화 정책 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "전월세",
+        "시장 안정화",
+        "주택 정책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 전월세 시장 안정화 정책 논의"
+    }
+  },
+  {
+    "query_id": 41,
+    "task_id": 1,
+    "task_name": "임미란 의원 예산 질의 검색",
+    "task_query": "임미란 의원 예산 관련 질의",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "임미란"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "임미란 의원 예산 질의"
+    }
+  },
+  {
+    "query_id": 42,
+    "task_id": 1,
+    "task_name": "김동욱 의원의 교통안전 문제 제기 내용 검색",
+    "task_query": "김동욱 의원 교통안전 문제 제기",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "김동욱"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "교통안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "김동욱 의원 교통안전 문제 제기"
+    }
+  },
+  {
+    "query_id": 43,
+    "task_id": 1,
+    "task_name": "박수빈 의원 복지 정책 비판 발언 검색",
+    "task_query": "박수빈 의원 복지 정책 비판 발언",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "박수빈"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "복지"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "박수빈 의원 복지 정책 비판 발언"
+    }
+  },
+  {
+    "query_id": 44,
+    "task_id": 1,
+    "task_name": "황철규 의원의 청년 정책 논의 검색",
+    "task_query": "황철규 의원 청년 정책 논의",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "황철규"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "청년 정책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "황철규 의원 청년 정책 논의"
+    }
+  },
+  {
+    "query_id": 45,
+    "task_id": 1,
+    "task_name": "이봉준 의원 예산 감사 문제 제기 검색",
+    "task_query": "이봉준 의원 예산 감사 문제 제기",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "이봉준"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "예산",
+        "감사",
+        "문제 제기"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "이봉준 의원 예산 감사 문제 제기"
+    }
+  },
+  {
+    "query_id": 46,
+    "task_id": 1,
+    "task_name": "아이수루 의원 대중교통 서비스 개선 논의 검색",
+    "task_query": "아이수루 의원 대중교통 서비스 개선 논의",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "아이수루"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "대중교통",
+        "서비스 개선"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "아이수루 의원 대중교통 서비스 개선 논의"
+    }
+  },
+  {
+    "query_id": 47,
+    "task_id": 1,
+    "task_name": "김용호 의원의 디지털 행정 전환 발언 검색",
+    "task_query": "김용호 의원 디지털 행정 전환 발언",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "김용호"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "디지털 행정 전환"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "김용호 의원 디지털 행정 전환 발언"
+    }
+  },
+  {
+    "query_id": 48,
+    "task_id": 1,
+    "task_name": "박강산 의원의 젠트리피케이션 문제 제기 내용 검색",
+    "task_query": "박강산 의원 젠트리피케이션 문제 제기",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "박강산"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "젠트리피케이션"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "박강산 의원 젠트리피케이션 문제 제기"
+    }
+  },
+  {
+    "query_id": 49,
+    "task_id": 1,
+    "task_name": "최호정 의원 복지 전달체계 발언 검색",
+    "task_query": "최호정 의원 복지 전달체계 문제 발언",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "최호정"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "복지",
+        "전달체계"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "최호정 의원 복지 전달체계 문제 발언"
+    }
+  },
+  {
+    "query_id": 50,
+    "task_id": 1,
+    "task_name": "황유정 의원의 학교 안전 문제 제기 내용 검색",
+    "task_query": "황유정 의원 학교 안전 문제 제기",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "황유정"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "학교 안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "황유정 의원 학교 안전 문제 제기"
+    }
+  },
+  {
+    "query_id": 51,
+    "task_id": 1,
+    "task_name": "이병도 의원의 공공의료 확충 논의 검색",
+    "task_query": "이병도 의원 공공의료 확충 필요성 논의",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "이병도"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "공공의료",
+        "확충"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "이병도 의원 공공의료 확충 필요성 논의"
+    }
+  },
+  {
+    "query_id": 52,
+    "task_id": 1,
+    "task_name": "임규호 의원 학생 안전 발언 검색",
+    "task_query": "임규호 의원 학생 안전 발언",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "임규호"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "학생 안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "임규호 의원 학생 안전 발언"
+    }
+  },
+  {
+    "query_id": 52,
+    "task_id": 2,
+    "task_name": "임규호 의원 시설 개선 발언 검색",
+    "task_query": "임규호 의원 시설 개선 발언",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "임규호"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "시설 개선"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "임규호 의원 시설 개선 발언"
+    }
+  },
+  {
+    "query_id": 53,
+    "task_id": 1,
+    "task_name": "서상열 의원의 기후 대응 정책 비판 내용 검색",
+    "task_query": "서상열 의원 기후 대응 정책 비판",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "서상열"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "기후 대응"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서상열 의원 기후 대응 정책 비판"
+    }
+  },
+  {
+    "query_id": 54,
+    "task_id": 1,
+    "task_name": "박강산 의원 임대료 상승 발언 검색",
+    "task_query": "박강산 의원 임대료 상승 문제 발언",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "박강산"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "임대료 상승"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "박강산 의원 임대료 상승 문제 발언"
+    }
+  },
+  {
+    "query_id": 55,
+    "task_id": 1,
+    "task_name": "한신 의원의 문화예산 배분 발언 검색",
+    "task_query": "한신 의원 문화예산 배분 발언",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "한신"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "문화예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "한신 의원 문화예산 배분 발언"
+    }
+  },
+  {
+    "query_id": 56,
+    "task_id": 1,
+    "task_name": "박수빈 의원의 돌봄 인력 부족 문제 발언 검색",
+    "task_query": "박수빈 의원 돌봄 인력 부족 문제 제기",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "박수빈"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "돌봄",
+        "인력 부족"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "박수빈 의원 돌봄 인력 부족 문제"
+    }
+  },
+  {
+    "query_id": 57,
+    "task_id": 1,
+    "task_name": "이봉준 의원의 재정 효율성 문제 제기 검색",
+    "task_query": "이봉준 의원 재정 효율성 문제 제기",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "이봉준"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "재정 효율성"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "이봉준 의원 재정 효율성 문제 제기"
+    }
+  },
+  {
+    "query_id": 58,
+    "task_id": 1,
+    "task_name": "김동욱 의원의 재개발 문제 발언 검색",
+    "task_query": "김동욱 의원 재개발 문제 발언",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "김동욱"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "재개발"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "김동욱 의원 재개발 문제 발언"
+    }
+  },
+  {
+    "query_id": 58,
+    "task_id": 2,
+    "task_name": "김동욱 의원의 교통 복합 문제 제기 내용 검색",
+    "task_query": "김동욱 의원 교통 복합 문제 제기",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "김동욱"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "교통",
+        "복합 문제"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "김동욱 의원 교통 복합 문제 제기"
+    }
+  },
+  {
+    "query_id": 59,
+    "task_id": 1,
+    "task_name": "임미란 의원의 직업계고 문제 제기 내용 검색",
+    "task_query": "임미란 의원 직업계고 문제 제기",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "임미란"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "직업계고"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "임미란 의원 직업계고 문제 제기"
+    }
+  },
+  {
+    "query_id": 60,
+    "task_id": 1,
+    "task_name": "박강산 의원의 도시계획 논의 검색",
+    "task_query": "박강산 의원 도시계획 관련 논의",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [
+        "박강산"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "도시계획"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "박강산 의원 도시계획 논의"
+    }
+  },
+  {
+    "query_id": 61,
+    "task_id": 1,
+    "task_name": "광주광역시의회 더불어민주당 복지 예산 문제 제기",
+    "task_query": "광주광역시의회 더불어민주당 의원 복지 예산 문제 제기",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "복지",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 더불어민주당 의원 복지 예산 문제 제기"
+    }
+  },
+  {
+    "query_id": 62,
+    "task_id": 1,
+    "task_name": "광주광역시의회 국민의힘 의원 교통 인프라 발언 검색",
+    "task_query": "광주광역시의회 국민의힘 의원 교통 인프라 문제 발언",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "교통",
+        "인프라"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 국민의힘 의원 교통 인프라 문제 발언"
+    }
+  },
+  {
+    "query_id": 63,
+    "task_id": 1,
+    "task_name": "서울특별시의회 더불어민주당 청년 주거 문제 논의",
+    "task_query": "서울특별시의회 더불어민주당 의원 청년 주거 문제 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "청년",
+        "주거"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "더불어민주당 의원 청년 주거 문제 논의"
+    }
+  },
+  {
+    "query_id": 64,
+    "task_id": 1,
+    "task_name": "서울특별시의회 국민의힘 의원 도시 안전 정책 비판 발언 검색",
+    "task_query": "서울특별시의회 국민의힘 의원 도시 안전 정책 비판 발언",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "도시 안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "국민의힘 의원 도시 안전 정책 비판 발언"
+    }
+  },
+  {
+    "query_id": 65,
+    "task_id": 1,
+    "task_name": "서울특별시의회 더불어민주당 대중교통 요금 인상 반대 논의",
+    "task_query": "서울특별시의회 더불어민주당 의원 대중교통 요금 인상 반대 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "대중교통",
+        "요금",
+        "인상",
+        "반대"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 더불어민주당 의원 대중교통 요금 인상 반대 논의"
+    }
+  },
+  {
+    "query_id": 66,
+    "task_id": 1,
+    "task_name": "서울특별시의회 국민의힘 의원 재정 건전성 발언 검색",
+    "task_query": "서울특별시의회 국민의힘 의원 재정 건전성 발언",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "재정 건전성"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "국민의힘 의원 재정 건전성 발언"
+    }
+  },
+  {
+    "query_id": 67,
+    "task_id": 1,
+    "task_name": "광주광역시의회 더불어민주당 의원 기후 대응 정책 비판",
+    "task_query": "광주광역시의회 더불어민주당 의원들의 기후 대응 정책 비판 내용",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "기후 대응",
+        "정책 비판"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 더불어민주당 의원 기후 대응 정책 비판"
+    }
+  },
+  {
+    "query_id": 68,
+    "task_id": 1,
+    "task_name": "광주광역시의회 국민의힘 의원 재개발 문제 제기",
+    "task_query": "광주광역시의회 국민의힘 의원 재개발 사업 문제 제기",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "재개발"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 국민의힘 의원 재개발 사업 문제 제기"
+    }
+  },
+  {
+    "query_id": 69,
+    "task_id": 1,
+    "task_name": "서울특별시의회 더불어민주당 문화예술 지원 정책 비판 발언 검색",
+    "task_query": "서울특별시의회 더불어민주당 의원 문화예술 지원 정책 비판 발언",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "문화예술",
+        "지원",
+        "정책",
+        "비판"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 더불어민주당 의원 문화예술 지원 정책 비판 발언"
+    }
+  },
+  {
+    "query_id": 70,
+    "task_id": 1,
+    "task_name": "서울특별시의회 국민의힘 의원 세금 효율성 문제 제기",
+    "task_query": "서울특별시의회 국민의힘 의원 세금 효율성 문제 제기",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "세금",
+        "효율성"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "국민의힘 의원 세금 효율성 문제 제기"
+    }
+  },
+  {
+    "query_id": 71,
+    "task_id": 1,
+    "task_name": "광주광역시의회 더불어민주당 복지 예산 평가",
+    "task_query": "광주광역시의회 더불어민주당 복지 예산 평가",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "복지",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 더불어민주당 복지 예산 평가"
+    }
+  },
+  {
+    "query_id": 71,
+    "task_id": 2,
+    "task_name": "광주광역시의회 국민의힘 복지 예산 평가",
+    "task_query": "광주광역시의회 국민의힘 복지 예산 평가",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "복지",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 국민의힘 복지 예산 평가"
+    }
+  },
+  {
+    "query_id": 72,
+    "task_id": 1,
+    "task_name": "서울특별시의회 대중교통 요금 인상 관련 정당1 논거",
+    "task_query": "서울특별시의회 대중교통 요금 인상 정당1 논거",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "대중교통",
+        "요금",
+        "인상"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울특별시의회 대중교통 요금 인상 정당별 논거"
+    }
+  },
+  {
+    "query_id": 72,
+    "task_id": 2,
+    "task_name": "서울특별시의회 대중교통 요금 인상 관련 정당2 논거",
+    "task_query": "서울특별시의회 대중교통 요금 인상 정당2 논거",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘",
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "대중교통",
+        "요금",
+        "인상"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울특별시의회 대중교통 요금 인상 정당별 논거"
+    }
+  },
+  {
+    "query_id": 73,
+    "task_id": 1,
+    "task_name": "광주광역시의회에서 정당1의 기후위기 대응 정책 입장",
+    "task_query": "광주광역시의회 정당1 기후위기 대응 정책 비판 또는 옹호",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "정당1"
+      ],
+      "tag_keywords": [
+        "기후위기",
+        "정책",
+        "대응"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주광역시의회 정당1 기후위기 대응 정책 비판 옹호"
+    }
+  },
+  {
+    "query_id": 73,
+    "task_id": 2,
+    "task_name": "광주광역시의회에서 정당2의 기후위기 대응 정책 입장",
+    "task_query": "광주광역시의회 정당2 기후위기 대응 정책 비판 또는 옹호",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "기후위기",
+        "정책",
+        "비판",
+        "옹호"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주광역시의회 정당2 기후위기 대응 정책 비판 옹호"
+    }
+  },
+  {
+    "query_id": 73,
+    "task_id": 3,
+    "task_name": "서울특별시의회에서 정당1의 기후위기 대응 정책 입장",
+    "task_query": "서울특별시의회 정당1 기후위기 대응 정책 비판 또는 옹호",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "정당1"
+      ],
+      "tag_keywords": [
+        "기후위기 대응"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울특별시의회 정당1 기후위기 대응 정책 비판 옹호"
+    }
+  },
+  {
+    "query_id": 73,
+    "task_id": 4,
+    "task_name": "서울특별시의회에서 정당2의 기후위기 대응 정책 입장",
+    "task_query": "서울특별시의회 정당2 기후위기 대응 정책 비판 또는 옹호",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "기후위기",
+        "정책",
+        "비판",
+        "옹호"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울특별시의회 정당2 기후위기 대응 정책 비판 옹호"
+    }
+  },
+  {
+    "query_id": 74,
+    "task_id": 1,
+    "task_name": "서울특별시의회 예산·복지 논쟁에서 첫 번째 정당의 정책 철학",
+    "task_query": "서울특별시의회 예산 복지 논쟁 첫 번째 정당 정책 철학",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "예산",
+        "복지",
+        "정책",
+        "철학"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 예산 복지 논쟁 정당 정책 철학"
+    }
+  },
+  {
+    "query_id": 74,
+    "task_id": 2,
+    "task_name": "서울특별시의회 예산·복지 논쟁에서 두 번째 정당의 정책 철학",
+    "task_query": "서울특별시의회 예산 복지 논쟁 두 번째 정당 정책 철학",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "예산",
+        "복지",
+        "정책 철학"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울특별시의회 예산 복지 논쟁 정당 정책 철학"
+    }
+  },
+  {
+    "query_id": 75,
+    "task_id": 1,
+    "task_name": "광주 재개발·주거 정책 논쟁 쟁점",
+    "task_query": "광주 지방의회 재개발 주거 정책 논쟁 두 정당 쟁점 차이",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "재개발",
+        "주거",
+        "정책",
+        "논쟁",
+        "쟁점"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주 재개발 주거 정책 논쟁 두 정당 쟁점 차이"
+    }
+  },
+  {
+    "query_id": 75,
+    "task_id": 2,
+    "task_name": "서울 재개발·주거 정책 논쟁 쟁점",
+    "task_query": "서울 지방의회 재개발 주거 정책 논쟁 두 정당 쟁점 차이",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "재개발",
+        "주거",
+        "정책",
+        "논쟁",
+        "쟁점"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울 재개발 주거 정책 논쟁 두 정당 쟁점 차이"
+    }
+  },
+  {
+    "query_id": 76,
+    "task_id": 1,
+    "task_name": "광주 더불어민주당 의원의 기후 예산 비판",
+    "task_query": "광주 지역 더불어민주당 소속 의원들의 기후 예산 비판 내용",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "기후",
+        "예산",
+        "비판"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주 더불어민주당 의원 기후 예산 비판"
+    }
+  },
+  {
+    "query_id": 76,
+    "task_id": 2,
+    "task_name": "서울 더불어민주당 의원의 기후 예산 비판",
+    "task_query": "서울 지역 더불어민주당 소속 의원들의 기후 예산 비판 내용",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "기후",
+        "예산",
+        "비판"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울 더불어민주당 의원 기후 예산 비판"
+    }
+  },
+  {
+    "query_id": 77,
+    "task_id": 1,
+    "task_name": "광주 국민의힘 의원 재개발 정책 관점",
+    "task_query": "광주 국민의힘 의원 재개발 정책 관점",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "재개발"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주 국민의힘 의원 재개발 정책"
+    }
+  },
+  {
+    "query_id": 77,
+    "task_id": 2,
+    "task_name": "서울 국민의힘 의원 재개발 정책 관점",
+    "task_query": "서울 국민의힘 의원 재개발 정책 관점",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "재개발"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울 국민의힘 의원 재개발 정책"
+    }
+  },
+  {
+    "query_id": 78,
+    "task_id": 1,
+    "task_name": "광주 임미란 의원 주거·도시정비 문제 제기 방식",
+    "task_query": "광주 임미란 의원 주거 및 도시정비 문제 제기 방식",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [
+        "임미란"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "주거",
+        "도시정비"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "임미란 의원 주거 도시정비 문제 제기 방식"
+    }
+  },
+  {
+    "query_id": 78,
+    "task_id": 2,
+    "task_name": "서울 박강산 의원 주거·도시정비 문제 제기 방식",
+    "task_query": "서울 박강산 의원 주거 및 도시정비 문제 제기 방식",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [
+        "박강산"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "주거",
+        "도시정비"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "박강산 의원 주거 도시정비 문제 제기 방식"
+    }
+  },
+  {
+    "query_id": 79,
+    "task_id": 1,
+    "task_name": "광주 더불어민주당 청년 일자리 정책 인식",
+    "task_query": "광주광역시 지방의회 더불어민주당 청년 일자리 정책 인식",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "청년",
+        "일자리",
+        "정책",
+        "인식"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시 더불어민주당 청년 일자리 정책 인식"
+    }
+  },
+  {
+    "query_id": 79,
+    "task_id": 2,
+    "task_name": "서울 국민의힘 청년 일자리 정책 인식",
+    "task_query": "서울특별시 지방의회 국민의힘 청년 일자리 정책 인식",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "청년",
+        "일자리",
+        "정책",
+        "인식"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "국민의힘 청년 일자리 정책 인식 서울특별시의회"
+    }
+  },
+  {
+    "query_id": 80,
+    "task_id": 1,
+    "task_name": "광주 학생 안전 쟁점 정당별 프레임 분석",
+    "task_query": "광주 학생 안전 관련 쟁점 정당별 프레임",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "학생 안전"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주 학생 안전 쟁점 정당별 프레임"
+    }
+  },
+  {
+    "query_id": 80,
+    "task_id": 2,
+    "task_name": "서울 학생 안전 쟁점 정당별 프레임 분석",
+    "task_query": "서울 학생 안전 관련 쟁점 정당별 프레임",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "학생 안전"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울 학생 안전 쟁점 정당별 프레임"
+    }
+  },
+  {
+    "query_id": 81,
+    "task_id": 1,
+    "task_name": "광주 재정 건전성 발언 정당별 검색",
+    "task_query": "광주 재정 건전성 발언 정당별",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "재정 건전성"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주 재정 건전성 발언 정당별"
+    }
+  },
+  {
+    "query_id": 81,
+    "task_id": 2,
+    "task_name": "서울 재정 건전성 발언 정당별 검색",
+    "task_query": "서울 재정 건전성 발언 정당별",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "재정 건전성"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울 재정 건전성 발언 정당별"
+    }
+  },
+  {
+    "query_id": 82,
+    "task_id": 1,
+    "task_name": "광주 대중교통 요금 정당별 접근",
+    "task_query": "광주 대중교통 요금 논쟁 정당별 입장",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "대중교통",
+        "요금"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주 대중교통 요금 정당별 입장"
+    }
+  },
+  {
+    "query_id": 82,
+    "task_id": 2,
+    "task_name": "서울 대중교통 요금 정당별 접근",
+    "task_query": "서울 대중교통 요금 논쟁 정당별 입장",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "대중교통",
+        "요금"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울 대중교통 요금 정당별 입장"
+    }
+  },
+  {
+    "query_id": 83,
+    "task_id": 1,
+    "task_name": "광주 국민의힘 의원 환경 정책 비판 논리",
+    "task_query": "광주 지역 국민의힘 소속 지방의원들의 환경 정책 비판 논리",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "환경"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주 국민의힘 지방의원 환경 정책 비판 논리"
+    }
+  },
+  {
+    "query_id": 83,
+    "task_id": 2,
+    "task_name": "서울 더불어민주당 의원 환경 정책 비판 논리",
+    "task_query": "서울 지역 더불어민주당 소속 지방의원들의 환경 정책 비판 논리",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "환경"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울 더불어민주당 지방의원 환경 정책 비판 논리"
+    }
+  },
+  {
+    "query_id": 84,
+    "task_id": 1,
+    "task_name": "광주 장애인 이동권 문제 정당별 검색",
+    "task_query": "광주 장애인 이동권 문제 정당별",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "장애인",
+        "이동권"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주 장애인 이동권 문제 정당별"
+    }
+  },
+  {
+    "query_id": 84,
+    "task_id": 2,
+    "task_name": "서울 장애인 이동권 문제 정당별 검색",
+    "task_query": "서울 장애인 이동권 문제 정당별",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "장애인 이동권"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울 장애인 이동권 문제 정당별"
+    }
+  },
+  {
+    "query_id": 85,
+    "task_id": 1,
+    "task_name": "광주 더불어민주당 어린이·노약자 안전 정책",
+    "task_query": "광주광역시 더불어민주당 어린이 및 노약자 안전 정책",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "어린이 안전",
+        "노약자 안전",
+        "안전 정책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시 더불어민주당 어린이 노약자 안전 정책"
+    }
+  },
+  {
+    "query_id": 85,
+    "task_id": 2,
+    "task_name": "서울 국민의힘 어린이·노약자 안전 정책",
+    "task_query": "서울특별시 국민의힘 어린이 및 노약자 안전 정책",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "어린이 안전",
+        "노약자 안전",
+        "안전 정책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "국민의힘 어린이 노약자 안전 정책"
+    }
+  },
+  {
+    "query_id": 86,
+    "task_id": 1,
+    "task_name": "광주 김동욱 의원 대중교통 서비스 비판",
+    "task_query": "광주 김동욱 의원 대중교통 서비스 비판",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [
+        "김동욱"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "대중교통"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "김동욱 의원 대중교통 서비스 비판"
+    }
+  },
+  {
+    "query_id": 86,
+    "task_id": 2,
+    "task_name": "서울 아이수루 의원 대중교통 서비스 비판",
+    "task_query": "서울 아이수루 의원 대중교통 서비스 비판",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [
+        "아이수루"
+      ],
+      "parties": [],
+      "tag_keywords": [
+        "대중교통"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "아이수루 의원 대중교통 서비스 비판"
+    }
+  },
+  {
+    "query_id": 87,
+    "task_id": 1,
+    "task_name": "광주 문화예술 지원 정책 논쟁 정당 구도 분석",
+    "task_query": "광주 문화예술 지원 정책 관련 정당별 논쟁",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "문화예술",
+        "지원정책"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주 문화예술 지원 정책 정당별 논쟁"
+    }
+  },
+  {
+    "query_id": 87,
+    "task_id": 2,
+    "task_name": "서울 문화예술 지원 정책 논쟁 정당 구도 분석",
+    "task_query": "서울 문화예술 지원 정책 관련 정당별 논쟁",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "문화예술",
+        "지원",
+        "정책"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울 문화예술 지원 정책 정당별 논쟁"
+    }
+  },
+  {
+    "query_id": 88,
+    "task_id": 1,
+    "task_name": "광주 더불어민주당 복지 돌봄 정책 문제",
+    "task_query": "광주광역시 더불어민주당 복지 돌봄 정책 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "복지",
+        "돌봄",
+        "정책",
+        "문제"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시 더불어민주당 복지 돌봄 정책 문제"
+    }
+  },
+  {
+    "query_id": 88,
+    "task_id": 2,
+    "task_name": "광주 국민의힘 복지 돌봄 정책 문제",
+    "task_query": "광주광역시 국민의힘 복지 돌봄 정책 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "복지",
+        "돌봄",
+        "정책",
+        "문제"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시 국민의힘 복지 돌봄 정책 문제"
+    }
+  },
+  {
+    "query_id": 88,
+    "task_id": 3,
+    "task_name": "서울 더불어민주당 복지 돌봄 정책 문제",
+    "task_query": "서울특별시 더불어민주당 복지 돌봄 정책 문제",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "복지",
+        "돌봄",
+        "정책",
+        "문제"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시 더불어민주당 복지 돌봄 정책 문제"
+    }
+  },
+  {
+    "query_id": 88,
+    "task_id": 4,
+    "task_name": "서울 국민의힘 복지 돌봄 정책 문제",
+    "task_query": "서울특별시 국민의힘 복지 돌봄 정책 문제",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "복지",
+        "돌봄",
+        "정책",
+        "문제"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "국민의힘 복지 돌봄 정책 문제 서울특별시"
+    }
+  },
+  {
+    "query_id": 89,
+    "task_id": 1,
+    "task_name": "광주광역시의회 교육 복지 문제 정당별 접근",
+    "task_query": "광주광역시의회 교육 복지 문제 정당별 접근 방식",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교육",
+        "복지"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주광역시의회 교육 복지 문제 정당별 접근 방식"
+    }
+  },
+  {
+    "query_id": 89,
+    "task_id": 2,
+    "task_name": "서울특별시의회 교육 복지 문제 정당별 접근",
+    "task_query": "서울특별시의회 교육 복지 문제 정당별 접근 방식",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "교육",
+        "복지"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울특별시의회 교육 복지 문제 정당별 접근 방식"
+    }
+  },
+  {
+    "query_id": 90,
+    "task_id": 1,
+    "task_name": "광주 재난·안전 대응 정책 비판 정당별 분석",
+    "task_query": "광주 재난·안전 대응 정책 비판 정당별",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "더불어민주당",
+        "국민의힘",
+        "무소속"
+      ],
+      "tag_keywords": [
+        "재난",
+        "안전",
+        "정책"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주 재난 안전 대응 정책 비판 정당별"
+    }
+  },
+  {
+    "query_id": 90,
+    "task_id": 2,
+    "task_name": "서울 재난·안전 대응 정책 비판 정당별 분석",
+    "task_query": "서울 재난·안전 대응 정책 비판 정당별",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "재난",
+        "안전",
+        "대응",
+        "정책"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울 재난 안전 대응 정책 비판 정당별"
+    }
+  },
+  {
+    "query_id": 91,
+    "task_id": 1,
+    "task_name": "광주광역시의회 교육 예산 집행 문제",
+    "task_query": "광주광역시의회 교육 예산 집행 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교육",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 교육 예산 집행 문제"
+    }
+  },
+  {
+    "query_id": 91,
+    "task_id": 2,
+    "task_name": "서울특별시의회 교육 예산 집행 문제",
+    "task_query": "서울특별시의회 교육 예산 집행 문제",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교육",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 교육 예산 집행 문제"
+    }
+  },
+  {
+    "query_id": 91,
+    "task_id": 3,
+    "task_name": "광주광역시의회 교육 예산 집행 정당별 차이",
+    "task_query": "광주광역시의회 교육 예산 집행 문제 정당별 차이",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교육",
+        "예산",
+        "집행"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "광주광역시의회 교육 예산 집행 문제 정당별 차이"
+    }
+  },
+  {
+    "query_id": 91,
+    "task_id": 4,
+    "task_name": "서울특별시의회 교육 예산 집행 정당별 차이",
+    "task_query": "서울특별시의회 교육 예산 집행 문제 정당별 차이",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교육",
+        "예산",
+        "집행"
+      ],
+      "is_comparative": true,
+      "comparison_axis": "party",
+      "residual_query": "서울특별시의회 교육 예산 집행 문제 정당별 차이"
+    }
+  },
+  {
+    "query_id": 92,
+    "task_id": 1,
+    "task_name": "광주 도시안전건설 분야 재개발 논쟁 검색",
+    "task_query": "광주 지방의회 도시안전건설 분야 재개발 논쟁",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "도시안전건설",
+        "재개발"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주 광역시의회 도시안전건설 재개발 논쟁"
+    }
+  },
+  {
+    "query_id": 92,
+    "task_id": 2,
+    "task_name": "서울 도시계획 분야 재개발 논쟁 검색",
+    "task_query": "서울 지방의회 도시계획 분야 재개발 논쟁",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "도시계획",
+        "재개발"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울 지방의회 도시계획 재개발 논쟁"
+    }
+  },
+  {
+    "query_id": 93,
+    "task_id": 1,
+    "task_name": "광주 청년 주거 정책 회의록 검색",
+    "task_query": "광주 청년 주거 정책 관련 회의록",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "청년",
+        "주거",
+        "정책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주 청년 주거 정책 회의록"
+    }
+  },
+  {
+    "query_id": 93,
+    "task_id": 2,
+    "task_name": "서울 청년 주거 정책 회의록 검색",
+    "task_query": "서울 청년 주거 정책 관련 회의록",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "청년",
+        "주거",
+        "정책"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울 청년 주거 정책"
+    }
+  },
+  {
+    "query_id": 94,
+    "task_id": 1,
+    "task_name": "광주 대중교통 안전 문제 접근 방식 검색",
+    "task_query": "광주광역시 지방의회 대중교통 안전 문제 접근 방식",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "대중교통",
+        "안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시 대중교통 안전 문제 접근 방식"
+    }
+  },
+  {
+    "query_id": 94,
+    "task_id": 2,
+    "task_name": "서울 대중교통 안전 문제 접근 방식 검색",
+    "task_query": "서울특별시 지방의회 대중교통 안전 문제 접근 방식",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "대중교통",
+        "안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 대중교통 안전 문제 접근 방식"
+    }
+  },
+  {
+    "query_id": 95,
+    "task_id": 1,
+    "task_name": "지역1 더불어민주당 복지 예산 문제",
+    "task_query": "지역1 더불어민주당 의원 복지 예산 문제",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "복지",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "더불어민주당 의원 복지 예산 문제"
+    }
+  },
+  {
+    "query_id": 95,
+    "task_id": 2,
+    "task_name": "지역2 더불어민주당 복지 예산 문제",
+    "task_query": "지역2 더불어민주당 의원 복지 예산 문제",
+    "analysis": {
+      "cities": [],
+      "councils": [],
+      "persons": [],
+      "parties": [
+        "더불어민주당"
+      ],
+      "tag_keywords": [
+        "복지",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "더불어민주당 의원 복지 예산 문제"
+    }
+  },
+  {
+    "query_id": 96,
+    "task_id": 1,
+    "task_name": "광주 국민의힘 도시 안전 정책 문제",
+    "task_query": "광주광역시 국민의힘 의원이 제기한 도시 안전 정책 문제",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "도시 안전"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시 국민의힘 의원 도시 안전 정책 문제"
+    }
+  },
+  {
+    "query_id": 96,
+    "task_id": 2,
+    "task_name": "서울 국민의힘 도시 안전 정책 문제",
+    "task_query": "서울특별시 국민의힘 의원이 제기한 도시 안전 정책 문제",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [
+        "국민의힘"
+      ],
+      "tag_keywords": [
+        "도시 안전",
+        "정책 문제"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "국민의힘 서울특별시의회 의원 도시 안전 정책 문제"
+    }
+  },
+  {
+    "query_id": 97,
+    "task_id": 1,
+    "task_name": "광주 기후 환경 예산 편성 논의 검색",
+    "task_query": "광주광역시 지방의회 기후 환경 관련 예산 편성 논의",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "기후",
+        "환경",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 기후 환경 예산 편성 논의"
+    }
+  },
+  {
+    "query_id": 97,
+    "task_id": 2,
+    "task_name": "서울 기후 환경 예산 편성 논의 검색",
+    "task_query": "서울특별시 지방의회 기후 환경 관련 예산 편성 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "기후",
+        "환경",
+        "예산"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 기후 환경 예산 편성 논의"
+    }
+  },
+  {
+    "query_id": 98,
+    "task_id": 1,
+    "task_name": "광주 예산결산특별위원회 예산 효율성 비판",
+    "task_query": "광주 예산결산특별위원회 예산 효율성 비판",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "예산",
+        "효율성"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주 예산결산특별위원회 예산 효율성 비판"
+    }
+  },
+  {
+    "query_id": 98,
+    "task_id": 2,
+    "task_name": "서울 기획예산위원회 예산 효율성 비판",
+    "task_query": "서울 기획예산위원회 예산 효율성 비판",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "예산",
+        "기획예산위원회",
+        "효율성"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울 기획예산위원회 예산 효율성 비판"
+    }
+  },
+  {
+    "query_id": 99,
+    "task_id": 1,
+    "task_name": "광주 교육 학급당 학생 수 문제 접근 방식",
+    "task_query": "광주 교육 관련 학급당 학생 수 문제 접근 방식",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교육",
+        "학급당 학생 수"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주 교육 학급당 학생 수 문제 접근 방식"
+    }
+  },
+  {
+    "query_id": 99,
+    "task_id": 2,
+    "task_name": "서울 교육 학급당 학생 수 문제 접근 방식",
+    "task_query": "서울 교육 관련 학급당 학생 수 문제 접근 방식",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "교육",
+        "학급당 학생 수"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울 교육 학급당 학생 수 문제 접근 방식"
+    }
+  },
+  {
+    "query_id": 100,
+    "task_id": 1,
+    "task_name": "광주광역시의회 장애인 이동권 논의",
+    "task_query": "광주광역시의회 장애인 이동권 문제 논의",
+    "analysis": {
+      "cities": [
+        "gwangju"
+      ],
+      "councils": [
+        "광주광역시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "장애인",
+        "이동권"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "광주광역시의회 장애인 이동권 문제 논의"
+    }
+  },
+  {
+    "query_id": 100,
+    "task_id": 2,
+    "task_name": "서울특별시의회 장애인 이동권 논의",
+    "task_query": "서울특별시의회 장애인 이동권 문제 논의",
+    "analysis": {
+      "cities": [
+        "seoul"
+      ],
+      "councils": [
+        "서울특별시의회"
+      ],
+      "persons": [],
+      "parties": [],
+      "tag_keywords": [
+        "장애인",
+        "이동권"
+      ],
+      "is_comparative": false,
+      "comparison_axis": null,
+      "residual_query": "서울특별시의회 장애인 이동권 문제 논의"
+    }
+  }
+]

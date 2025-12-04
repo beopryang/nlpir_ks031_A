@@ -1,0 +1,1397 @@
+[
+  {
+    "query_id": 1,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 교육문화 분야에서 제기된 학교 예산 집행 문제를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 교육문화 분야 학교 예산 집행 문제 검색",
+        "task_query": "광주광역시의회 교육문화 분야 학교 예산 집행 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 2,
+    "category": "gwangju",
+    "original_query": "광주광역시의회에서 재개발 지역 교통 혼잡 문제를 다룬 내용을 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 재개발 지역 교통 혼잡 문제",
+        "task_query": "광주광역시의회 재개발 지역 교통 혼잡 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 3,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 환경 관련 회의록 중 미세먼지 대응 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 환경 분야 미세먼지 대응 논의 검색",
+        "task_query": "광주광역시의회 환경 분야 미세먼지 대응 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 4,
+    "category": "gwangju",
+    "original_query": "광주광역시의회의 청년 일자리 정책 비판 발언을 모아 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 청년 일자리 정책 비판 발언 검색",
+        "task_query": "광주광역시의회 청년 일자리 정책 비판 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 5,
+    "category": "gwangju",
+    "original_query": "광주광역시의회의 통학로 안전 문제 제기를 중심으로 주요 쟁점을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 통학로 안전 문제 제기",
+        "task_query": "광주광역시의회 통학로 안전 문제 제기 및 관련 주요 쟁점"
+      }
+    ]
+  },
+  {
+    "query_id": 6,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 예산결산특별위원회의 예산 집행 부실 문제를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 예산결산특별위원회 예산 집행 부실 관련 회의록 검색",
+        "task_query": "광주광역시의회 예산결산특별위원회 예산 집행 부실 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 7,
+    "category": "gwangju",
+    "original_query": "광주광역시의회의 복지시설 인력 부족 문제 제기 내용을 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 복지시설 인력 부족 문제",
+        "task_query": "광주광역시의회 복지시설 인력 부족 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 8,
+    "category": "gwangju",
+    "original_query": "광주광역시의회에서 CCTV 설치·운영 개선 논의가 이루어진 내용을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 CCTV 설치·운영 개선 논의 검색",
+        "task_query": "광주광역시의회 CCTV 설치 운영 개선 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 9,
+    "category": "gwangju",
+    "original_query": "광주광역시의회에서 공공임대주택 공급 부족 문제를 다룬 내용을 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 공공임대주택 공급 부족 문제",
+        "task_query": "광주광역시의회 공공임대주택 공급 부족 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 10,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 교통 분야에서 시내버스 배차 문제를 다룬 발언을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 교통 분야 시내버스 배차 문제 발언 검색",
+        "task_query": "광주광역시의회 교통 분야 시내버스 배차 문제 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 11,
+    "category": "gwangju",
+    "original_query": "광주광역시의회에서 학교 급식 질 개선을 위한 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 학교 급식 질 개선 논의",
+        "task_query": "광주광역시의회 학교 급식 질 개선 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 12,
+    "category": "gwangju",
+    "original_query": "광주광역시의회에서 학교시설 노후화 문제를 다룬 발언을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 학교시설 노후화 발언 검색",
+        "task_query": "광주광역시의회 학교시설 노후화 문제 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 13,
+    "category": "gwangju",
+    "original_query": "광주광역시의회에서 반려동물 환경·정책 개선 관련 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 반려동물 환경 정책 논의 검색",
+        "task_query": "광주광역시의회 반려동물 환경 정책 개선 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 14,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 장애인 이동권 문제를 제기한 내용을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 장애인 이동권 문제 제기 내용 검색",
+        "task_query": "광주광역시의회 장애인 이동권 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 15,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 도시철도 2호선 사업을 둘러싼 쟁점을 기사 형태로 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 도시철도 2호선 사업 쟁점 검색",
+        "task_query": "광주광역시의회 도시철도 2호선 사업 쟁점"
+      }
+    ]
+  },
+  {
+    "query_id": 16,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 주차난 해소 정책 관련 발언을 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 주차난 해소 정책 발언 검색",
+        "task_query": "광주광역시의회 주차난 해소 정책 관련 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 17,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 공공의료원 설립 필요성 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 공공의료원 설립 필요성 논의 검색",
+        "task_query": "광주광역시의회 공공의료원 설립 필요성 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 18,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 기후위기 대응 예산 부족 문제를 기사로 재구성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 기후위기 대응 예산 부족 문제 검색",
+        "task_query": "광주광역시의회 기후위기 대응 예산 부족 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 19,
+    "category": "gwangju",
+    "original_query": "광주광역시의회 경로당 냉난방비 지원 관련 문제 제기를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 경로당 냉난방비 지원 문제 제기",
+        "task_query": "광주광역시의회 경로당 냉난방비 지원 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 20,
+    "category": "gwangju",
+    "original_query": "광주광역시의회에서 문화예술 지원 정책 형평성 논의를 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 문화예술 지원 정책 논의 검색",
+        "task_query": "광주광역시의회 문화예술 지원 정책 형평성 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 21,
+    "category": "seoul",
+    "original_query": "서울특별시의회에서 대중교통 요금 인상 문제를 다룬 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 대중교통 요금 인상 논의 검색",
+        "task_query": "서울특별시의회 대중교통 요금 인상 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 22,
+    "category": "seoul",
+    "original_query": "서울특별시의회 재개발로 인한 원주민 내몰림 문제 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 재개발 원주민 내몰림 문제 논의",
+        "task_query": "서울특별시의회 재개발로 인한 원주민 내몰림 문제 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 23,
+    "category": "seoul",
+    "original_query": "서울특별시의회 청년 정신건강 지원 관련 논의를 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 청년 정신건강 지원 논의 검색",
+        "task_query": "서울특별시의회 청년 정신건강 지원 관련 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 24,
+    "category": "seoul",
+    "original_query": "서울특별시의회에서 재정 건전성 문제를 다룬 발언을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 재정 건전성 발언 검색",
+        "task_query": "서울특별시의회 재정 건전성 관련 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 25,
+    "category": "seoul",
+    "original_query": "서울특별시의회 전동 킥보드 안전사고 관련 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 전동 킥보드 안전사고 논의 검색",
+        "task_query": "서울특별시의회 전동 킥보드 안전사고 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 26,
+    "category": "seoul",
+    "original_query": "서울특별시의회 학급당 학생 수 문제를 다룬 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 학급당 학생 수 논의 검색",
+        "task_query": "서울특별시의회 학급당 학생 수 문제 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 27,
+    "category": "seoul",
+    "original_query": "서울특별시의회 탄소중립 정책 관련 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 탄소중립 정책 논의 검색",
+        "task_query": "서울특별시의회 탄소중립 정책 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 28,
+    "category": "seoul",
+    "original_query": "서울특별시의회 지하철 혼잡 완화 정책을 둘러싼 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 지하철 혼잡 완화 정책 논의 검색",
+        "task_query": "서울특별시의회 지하철 혼잡 완화 정책 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 29,
+    "category": "seoul",
+    "original_query": "서울특별시의회 소상공인 지원 정책 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 소상공인 지원 정책 논의 검색",
+        "task_query": "서울특별시의회 소상공인 지원 정책 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 30,
+    "category": "seoul",
+    "original_query": "서울특별시의회에서 CCTV 설치 개선 문제를 다룬 발언을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 CCTV 설치 개선 발언 검색",
+        "task_query": "서울특별시의회 CCTV 설치 개선 관련 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 31,
+    "category": "seoul",
+    "original_query": "서울특별시의회 노인 복지시설 운영 문제를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 노인 복지시설 운영 문제 검색",
+        "task_query": "서울특별시의회 노인 복지시설 운영 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 32,
+    "category": "seoul",
+    "original_query": "서울특별시의회에서 공공데이터 개방과 관련된 쟁점을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 공공데이터 개방 쟁점 검색",
+        "task_query": "서울특별시의회 공공데이터 개방 관련 쟁점"
+      }
+    ]
+  },
+  {
+    "query_id": 33,
+    "category": "seoul",
+    "original_query": "서울특별시의회 어린이 보호구역 교통안전 문제 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 어린이 보호구역 교통안전 논의",
+        "task_query": "서울특별시의회 어린이 보호구역 교통안전 문제 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 34,
+    "category": "seoul",
+    "original_query": "서울특별시의회 도시재생 정책 중 지역 격차 문제를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 도시재생 정책 지역 격차 문제",
+        "task_query": "서울특별시의회 도시재생 정책에서 지역 격차 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 35,
+    "category": "seoul",
+    "original_query": "서울특별시의회 문화예술 지원 정책 관련 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 문화예술 지원 정책 논의 검색",
+        "task_query": "서울특별시의회 문화예술 지원 정책 관련 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 36,
+    "category": "seoul",
+    "original_query": "서울특별시의회 지하철 역사 범죄 예방 대책을 다룬 발언을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 지하철 역사 범죄 예방 대책 발언 검색",
+        "task_query": "서울특별시의회 지하철 역사 범죄 예방 대책 관련 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 37,
+    "category": "seoul",
+    "original_query": "서울특별시의회 청년 복지 전달체계 문제 논의를 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 청년 복지 전달체계 문제 논의 검색",
+        "task_query": "서울특별시의회 청년 복지 전달체계 문제 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 38,
+    "category": "seoul",
+    "original_query": "서울특별시의회 성과평가 제도 관련 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 성과평가 제도 논의 검색",
+        "task_query": "서울특별시의회 성과평가 제도 관련 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 39,
+    "category": "seoul",
+    "original_query": "서울특별시의회 도시철도 연장 사업의 비용·효과 문제를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 도시철도 연장 사업 비용 문제",
+        "task_query": "서울특별시의회 도시철도 연장 사업 비용 관련 논의"
+      },
+      {
+        "task_id": 2,
+        "name": "서울특별시의회 도시철도 연장 사업 효과 문제",
+        "task_query": "서울특별시의회 도시철도 연장 사업 효과 관련 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 40,
+    "category": "seoul",
+    "original_query": "서울특별시의회 전월세 시장 안정화 정책 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 전월세 시장 안정화 정책 논의 검색",
+        "task_query": "서울특별시의회 전월세 시장 안정화 정책 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 41,
+    "category": "person",
+    "original_query": "임미란 의원의 예산 관련 질의 내용을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "임미란 의원 예산 질의 검색",
+        "task_query": "임미란 의원 예산 관련 질의"
+      }
+    ]
+  },
+  {
+    "query_id": 42,
+    "category": "person",
+    "original_query": "김동욱 의원의 교통안전 문제 제기 내용을 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "김동욱 의원의 교통안전 문제 제기 내용 검색",
+        "task_query": "김동욱 의원 교통안전 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 43,
+    "category": "person",
+    "original_query": "박수빈 의원의 복지 정책 비판 발언을 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "박수빈 의원 복지 정책 비판 발언 검색",
+        "task_query": "박수빈 의원 복지 정책 비판 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 44,
+    "category": "person",
+    "original_query": "황철규 의원의 청년 정책 관련 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "황철규 의원의 청년 정책 논의 검색",
+        "task_query": "황철규 의원 청년 정책 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 45,
+    "category": "person",
+    "original_query": "이봉준 의원의 예산 감사 관련 문제 제기를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "이봉준 의원 예산 감사 문제 제기 검색",
+        "task_query": "이봉준 의원 예산 감사 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 46,
+    "category": "person",
+    "original_query": "아이수루 의원의 대중교통 서비스 개선 논의를 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "아이수루 의원 대중교통 서비스 개선 논의 검색",
+        "task_query": "아이수루 의원 대중교통 서비스 개선 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 47,
+    "category": "person",
+    "original_query": "김용호 의원의 디지털 행정 전환 관련 발언을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "김용호 의원의 디지털 행정 전환 발언 검색",
+        "task_query": "김용호 의원 디지털 행정 전환 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 48,
+    "category": "person",
+    "original_query": "박강산 의원의 젠트리피케이션 문제 제기를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "박강산 의원의 젠트리피케이션 문제 제기 내용 검색",
+        "task_query": "박강산 의원 젠트리피케이션 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 49,
+    "category": "person",
+    "original_query": "최호정 의원의 복지 전달체계 문제 발언을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "최호정 의원 복지 전달체계 발언 검색",
+        "task_query": "최호정 의원 복지 전달체계 문제 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 50,
+    "category": "person",
+    "original_query": "황유정 의원의 학교 안전 문제 제기를 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "황유정 의원의 학교 안전 문제 제기 내용 검색",
+        "task_query": "황유정 의원 학교 안전 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 51,
+    "category": "person",
+    "original_query": "이병도 의원의 공공의료 확충 필요성 관련 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "이병도 의원의 공공의료 확충 논의 검색",
+        "task_query": "이병도 의원 공공의료 확충 필요성 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 52,
+    "category": "person",
+    "original_query": "임규호 의원의 학생 안전·시설 개선 발언을 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "임규호 의원 학생 안전 발언 검색",
+        "task_query": "임규호 의원 학생 안전 발언"
+      },
+      {
+        "task_id": 2,
+        "name": "임규호 의원 시설 개선 발언 검색",
+        "task_query": "임규호 의원 시설 개선 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 53,
+    "category": "person",
+    "original_query": "서상열 의원의 기후 대응 정책 비판 내용을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서상열 의원의 기후 대응 정책 비판 내용 검색",
+        "task_query": "서상열 의원 기후 대응 정책 비판"
+      }
+    ]
+  },
+  {
+    "query_id": 54,
+    "category": "person",
+    "original_query": "박강산 의원의 임대료 상승 문제 관련 발언을 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "박강산 의원 임대료 상승 발언 검색",
+        "task_query": "박강산 의원 임대료 상승 문제 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 55,
+    "category": "person",
+    "original_query": "한신 의원의 문화예산 배분 문제 발언을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "한신 의원의 문화예산 배분 발언 검색",
+        "task_query": "한신 의원 문화예산 배분 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 56,
+    "category": "person",
+    "original_query": "박수빈 의원의 돌봄 인력 부족 문제 제기를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "박수빈 의원의 돌봄 인력 부족 문제 발언 검색",
+        "task_query": "박수빈 의원 돌봄 인력 부족 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 57,
+    "category": "person",
+    "original_query": "이봉준 의원의 재정 효율성 문제 제기를 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "이봉준 의원의 재정 효율성 문제 제기 검색",
+        "task_query": "이봉준 의원 재정 효율성 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 58,
+    "category": "person",
+    "original_query": "김동욱 의원의 재개발·교통 복합 문제 제기 내용을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "김동욱 의원의 재개발 문제 발언 검색",
+        "task_query": "김동욱 의원 재개발 문제 발언"
+      },
+      {
+        "task_id": 2,
+        "name": "김동욱 의원의 교통 복합 문제 제기 내용 검색",
+        "task_query": "김동욱 의원 교통 복합 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 59,
+    "category": "person",
+    "original_query": "임미란 의원의 직업계고 관련 문제 제기를 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "임미란 의원의 직업계고 문제 제기 내용 검색",
+        "task_query": "임미란 의원 직업계고 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 60,
+    "category": "person",
+    "original_query": "박강산 의원의 도시계획 관련 논의를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "박강산 의원의 도시계획 논의 검색",
+        "task_query": "박강산 의원 도시계획 관련 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 61,
+    "category": "party",
+    "original_query": "광주광역시의회 더불어민주당 의원들의 복지 예산 문제 제기를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 더불어민주당 복지 예산 문제 제기",
+        "task_query": "광주광역시의회 더불어민주당 의원 복지 예산 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 62,
+    "category": "party",
+    "original_query": "광주광역시의회 국민의힘 의원들의 교통 인프라 문제 발언을 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 국민의힘 의원 교통 인프라 발언 검색",
+        "task_query": "광주광역시의회 국민의힘 의원 교통 인프라 문제 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 63,
+    "category": "party",
+    "original_query": "서울특별시의회 더불어민주당 의원들의 청년 주거 문제 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 더불어민주당 청년 주거 문제 논의",
+        "task_query": "서울특별시의회 더불어민주당 의원 청년 주거 문제 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 64,
+    "category": "party",
+    "original_query": "서울특별시의회 국민의힘 의원들의 도시 안전 정책 비판 발언을 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 국민의힘 의원 도시 안전 정책 비판 발언 검색",
+        "task_query": "서울특별시의회 국민의힘 의원 도시 안전 정책 비판 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 65,
+    "category": "party",
+    "original_query": "서울특별시의회 더불어민주당 의원들의 대중교통 요금 인상 반대 논의를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 더불어민주당 대중교통 요금 인상 반대 논의",
+        "task_query": "서울특별시의회 더불어민주당 의원 대중교통 요금 인상 반대 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 66,
+    "category": "party",
+    "original_query": "서울특별시의회 국민의힘 의원들의 재정 건전성 강조 발언을 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 국민의힘 의원 재정 건전성 발언 검색",
+        "task_query": "서울특별시의회 국민의힘 의원 재정 건전성 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 67,
+    "category": "party",
+    "original_query": "광주광역시의회 더불어민주당 의원들의 기후 대응 정책 비판 내용을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 더불어민주당 의원 기후 대응 정책 비판",
+        "task_query": "광주광역시의회 더불어민주당 의원들의 기후 대응 정책 비판 내용"
+      }
+    ]
+  },
+  {
+    "query_id": 68,
+    "category": "party",
+    "original_query": "광주광역시의회 국민의힘 의원들의 재개발 사업 문제 제기를 기사화해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 국민의힘 의원 재개발 문제 제기",
+        "task_query": "광주광역시의회 국민의힘 의원 재개발 사업 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 69,
+    "category": "party",
+    "original_query": "서울특별시의회 더불어민주당 의원들의 문화예술 지원 정책 비판 발언을 기사 작성.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 더불어민주당 문화예술 지원 정책 비판 발언 검색",
+        "task_query": "서울특별시의회 더불어민주당 의원 문화예술 지원 정책 비판 발언"
+      }
+    ]
+  },
+  {
+    "query_id": 70,
+    "category": "party",
+    "original_query": "서울특별시의회 국민의힘 의원들의 세금 효율성 문제 제기를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 국민의힘 의원 세금 효율성 문제 제기",
+        "task_query": "서울특별시의회 국민의힘 의원 세금 효율성 문제 제기"
+      }
+    ]
+  },
+  {
+    "query_id": 71,
+    "category": "mixed",
+    "original_query": "광주광역시의회에서 더불어민주당과 국민의힘이 각각 복지 예산을 어떻게 평가하는지 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 더불어민주당 복지 예산 평가",
+        "task_query": "광주광역시의회 더불어민주당 복지 예산 평가"
+      },
+      {
+        "task_id": 2,
+        "name": "광주광역시의회 국민의힘 복지 예산 평가",
+        "task_query": "광주광역시의회 국민의힘 복지 예산 평가"
+      }
+    ]
+  },
+  {
+    "query_id": 72,
+    "category": "mixed",
+    "original_query": "서울특별시의회에서 두 정당이 대중교통 요금 인상에 대해 제기한 논거 차이를 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 대중교통 요금 인상 관련 정당1 논거",
+        "task_query": "서울특별시의회 대중교통 요금 인상 정당1 논거"
+      },
+      {
+        "task_id": 2,
+        "name": "서울특별시의회 대중교통 요금 인상 관련 정당2 논거",
+        "task_query": "서울특별시의회 대중교통 요금 인상 정당2 논거"
+      }
+    ]
+  },
+  {
+    "query_id": 73,
+    "category": "mixed",
+    "original_query": "광주·서울의회에서 두 정당이 각각 기후위기 대응 정책을 어떻게 비판·옹호하는지 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회에서 정당1의 기후위기 대응 정책 입장",
+        "task_query": "광주광역시의회 정당1 기후위기 대응 정책 비판 또는 옹호"
+      },
+      {
+        "task_id": 2,
+        "name": "광주광역시의회에서 정당2의 기후위기 대응 정책 입장",
+        "task_query": "광주광역시의회 정당2 기후위기 대응 정책 비판 또는 옹호"
+      },
+      {
+        "task_id": 3,
+        "name": "서울특별시의회에서 정당1의 기후위기 대응 정책 입장",
+        "task_query": "서울특별시의회 정당1 기후위기 대응 정책 비판 또는 옹호"
+      },
+      {
+        "task_id": 4,
+        "name": "서울특별시의회에서 정당2의 기후위기 대응 정책 입장",
+        "task_query": "서울특별시의회 정당2 기후위기 대응 정책 비판 또는 옹호"
+      }
+    ]
+  },
+  {
+    "query_id": 74,
+    "category": "mixed",
+    "original_query": "서울특별시의회의 예산·복지 논쟁에서 두 정당의 정책 철학 차이를 회의록 기반으로 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "서울특별시의회 예산·복지 논쟁에서 첫 번째 정당의 정책 철학",
+        "task_query": "서울특별시의회 예산 복지 논쟁 첫 번째 정당 정책 철학"
+      },
+      {
+        "task_id": 2,
+        "name": "서울특별시의회 예산·복지 논쟁에서 두 번째 정당의 정책 철학",
+        "task_query": "서울특별시의회 예산 복지 논쟁 두 번째 정당 정책 철학"
+      }
+    ]
+  },
+  {
+    "query_id": 75,
+    "category": "mixed",
+    "original_query": "광주와 서울의 재개발·주거 정책 논쟁에서 두 정당이 제기한 쟁점 차이를 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 재개발·주거 정책 논쟁 쟁점",
+        "task_query": "광주 지방의회 재개발 주거 정책 논쟁 두 정당 쟁점 차이"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 재개발·주거 정책 논쟁 쟁점",
+        "task_query": "서울 지방의회 재개발 주거 정책 논쟁 두 정당 쟁점 차이"
+      }
+    ]
+  },
+  {
+    "query_id": 76,
+    "category": "mixed",
+    "original_query": "광주 더불어민주당 의원과 서울 더불어민주당 의원의 기후 예산 비판 내용을 지역별로 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 더불어민주당 의원의 기후 예산 비판",
+        "task_query": "광주 지역 더불어민주당 소속 의원들의 기후 예산 비판 내용"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 더불어민주당 의원의 기후 예산 비판",
+        "task_query": "서울 지역 더불어민주당 소속 의원들의 기후 예산 비판 내용"
+      }
+    ]
+  },
+  {
+    "query_id": 77,
+    "category": "mixed",
+    "original_query": "광주 국민의힘 의원과 서울 국민의힘 의원이 재개발 정책 문제를 바라보는 관점을 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 국민의힘 의원 재개발 정책 관점",
+        "task_query": "광주 국민의힘 의원 재개발 정책 관점"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 국민의힘 의원 재개발 정책 관점",
+        "task_query": "서울 국민의힘 의원 재개발 정책 관점"
+      }
+    ]
+  },
+  {
+    "query_id": 78,
+    "category": "mixed",
+    "original_query": "광주 임미란 의원과 서울 박강산 의원의 주거·도시정비 문제 제기 방식을 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 임미란 의원 주거·도시정비 문제 제기 방식",
+        "task_query": "광주 임미란 의원 주거 및 도시정비 문제 제기 방식"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 박강산 의원 주거·도시정비 문제 제기 방식",
+        "task_query": "서울 박강산 의원 주거 및 도시정비 문제 제기 방식"
+      }
+    ]
+  },
+  {
+    "query_id": 79,
+    "category": "mixed",
+    "original_query": "광주 더불어민주당과 서울 국민의힘이 제기한 청년 일자리 문제의 정책 인식 차이를 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 더불어민주당 청년 일자리 정책 인식",
+        "task_query": "광주광역시 지방의회 더불어민주당 청년 일자리 정책 인식"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 국민의힘 청년 일자리 정책 인식",
+        "task_query": "서울특별시 지방의회 국민의힘 청년 일자리 정책 인식"
+      }
+    ]
+  },
+  {
+    "query_id": 80,
+    "category": "mixed",
+    "original_query": "광주와 서울의 학생 안전 관련 쟁점을 정당별 프레임 차이로 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 학생 안전 쟁점 정당별 프레임 분석",
+        "task_query": "광주 학생 안전 관련 쟁점 정당별 프레임"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 학생 안전 쟁점 정당별 프레임 분석",
+        "task_query": "서울 학생 안전 관련 쟁점 정당별 프레임"
+      }
+    ]
+  },
+  {
+    "query_id": 81,
+    "category": "mixed",
+    "original_query": "광주·서울에서 재정 건전성을 강조하는 발언이 정당별로 어떻게 다른지 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 재정 건전성 발언 정당별 검색",
+        "task_query": "광주 재정 건전성 발언 정당별"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 재정 건전성 발언 정당별 검색",
+        "task_query": "서울 재정 건전성 발언 정당별"
+      }
+    ]
+  },
+  {
+    "query_id": 82,
+    "category": "mixed",
+    "original_query": "광주와 서울의 대중교통 요금 논쟁에서 정당별 접근 방식을 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 대중교통 요금 정당별 접근",
+        "task_query": "광주 대중교통 요금 논쟁 정당별 입장"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 대중교통 요금 정당별 접근",
+        "task_query": "서울 대중교통 요금 논쟁 정당별 입장"
+      }
+    ]
+  },
+  {
+    "query_id": 83,
+    "category": "mixed",
+    "original_query": "광주 국민의힘·서울 더불어민주당 의원들의 환경 정책 비판 논리 차이를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 국민의힘 의원 환경 정책 비판 논리",
+        "task_query": "광주 지역 국민의힘 소속 지방의원들의 환경 정책 비판 논리"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 더불어민주당 의원 환경 정책 비판 논리",
+        "task_query": "서울 지역 더불어민주당 소속 지방의원들의 환경 정책 비판 논리"
+      }
+    ]
+  },
+  {
+    "query_id": 84,
+    "category": "mixed",
+    "original_query": "광주·서울 양측의 장애인 이동권 문제를 정당별로 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 장애인 이동권 문제 정당별 검색",
+        "task_query": "광주 장애인 이동권 문제 정당별"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 장애인 이동권 문제 정당별 검색",
+        "task_query": "서울 장애인 이동권 문제 정당별"
+      }
+    ]
+  },
+  {
+    "query_id": 85,
+    "category": "mixed",
+    "original_query": "광주 더불어민주당과 서울 국민의힘이 제기한 어린이·노약자 안전 정책의 차이를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 더불어민주당 어린이·노약자 안전 정책",
+        "task_query": "광주광역시 더불어민주당 어린이 및 노약자 안전 정책"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 국민의힘 어린이·노약자 안전 정책",
+        "task_query": "서울특별시 국민의힘 어린이 및 노약자 안전 정책"
+      }
+    ]
+  },
+  {
+    "query_id": 86,
+    "category": "mixed",
+    "original_query": "광주 김동욱 의원과 서울 아이수루 의원의 대중교통 서비스 비판 내용을 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 김동욱 의원 대중교통 서비스 비판",
+        "task_query": "광주 김동욱 의원 대중교통 서비스 비판"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 아이수루 의원 대중교통 서비스 비판",
+        "task_query": "서울 아이수루 의원 대중교통 서비스 비판"
+      }
+    ]
+  },
+  {
+    "query_id": 87,
+    "category": "mixed",
+    "original_query": "광주와 서울에서의 문화예술 지원 정책 논쟁이 어떤 정당 구도로 전개됐는지 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 문화예술 지원 정책 논쟁 정당 구도 분석",
+        "task_query": "광주 문화예술 지원 정책 관련 정당별 논쟁"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 문화예술 지원 정책 논쟁 정당 구도 분석",
+        "task_query": "서울 문화예술 지원 정책 관련 정당별 논쟁"
+      }
+    ]
+  },
+  {
+    "query_id": 88,
+    "category": "mixed",
+    "original_query": "광주·서울의 더불어민주당과 국민의힘이 각각 제기한 복지·돌봄 정책 문제의 차이를 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 더불어민주당 복지 돌봄 정책 문제",
+        "task_query": "광주광역시 더불어민주당 복지 돌봄 정책 문제"
+      },
+      {
+        "task_id": 2,
+        "name": "광주 국민의힘 복지 돌봄 정책 문제",
+        "task_query": "광주광역시 국민의힘 복지 돌봄 정책 문제"
+      },
+      {
+        "task_id": 3,
+        "name": "서울 더불어민주당 복지 돌봄 정책 문제",
+        "task_query": "서울특별시 더불어민주당 복지 돌봄 정책 문제"
+      },
+      {
+        "task_id": 4,
+        "name": "서울 국민의힘 복지 돌봄 정책 문제",
+        "task_query": "서울특별시 국민의힘 복지 돌봄 정책 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 89,
+    "category": "mixed",
+    "original_query": "광주와 서울의회에서 제기된 교육 복지 문제 접근 방식을 정당별로 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 교육 복지 문제 정당별 접근",
+        "task_query": "광주광역시의회 교육 복지 문제 정당별 접근 방식"
+      },
+      {
+        "task_id": 2,
+        "name": "서울특별시의회 교육 복지 문제 정당별 접근",
+        "task_query": "서울특별시의회 교육 복지 문제 정당별 접근 방식"
+      }
+    ]
+  },
+  {
+    "query_id": 90,
+    "category": "mixed",
+    "original_query": "광주·서울 양측에서 제기된 재난·안전 대응 정책 비판을 정당별 차이로 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 재난·안전 대응 정책 비판 정당별 분석",
+        "task_query": "광주 재난·안전 대응 정책 비판 정당별"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 재난·안전 대응 정책 비판 정당별 분석",
+        "task_query": "서울 재난·안전 대응 정책 비판 정당별"
+      }
+    ]
+  },
+  {
+    "query_id": 91,
+    "category": "mixed",
+    "original_query": "광주광역시의회와 서울특별시의회의 교육 예산 집행 문제를 비교해 지역별·정당별 차이를 분석하라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 교육 예산 집행 문제",
+        "task_query": "광주광역시의회 교육 예산 집행 문제"
+      },
+      {
+        "task_id": 2,
+        "name": "서울특별시의회 교육 예산 집행 문제",
+        "task_query": "서울특별시의회 교육 예산 집행 문제"
+      },
+      {
+        "task_id": 3,
+        "name": "광주광역시의회 교육 예산 집행 정당별 차이",
+        "task_query": "광주광역시의회 교육 예산 집행 문제 정당별 차이"
+      },
+      {
+        "task_id": 4,
+        "name": "서울특별시의회 교육 예산 집행 정당별 차이",
+        "task_query": "서울특별시의회 교육 예산 집행 문제 정당별 차이"
+      }
+    ]
+  },
+  {
+    "query_id": 92,
+    "category": "mixed",
+    "original_query": "광주 도시안전건설 분야와 서울 도시계획 분야의 재개발 논쟁 구조를 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 도시안전건설 분야 재개발 논쟁 검색",
+        "task_query": "광주 지방의회 도시안전건설 분야 재개발 논쟁"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 도시계획 분야 재개발 논쟁 검색",
+        "task_query": "서울 지방의회 도시계획 분야 재개발 논쟁"
+      }
+    ]
+  },
+  {
+    "query_id": 93,
+    "category": "mixed",
+    "original_query": "광주와 서울의 청년 주거 정책 회의록을 비교해 공통 쟁점과 차이점을 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 청년 주거 정책 회의록 검색",
+        "task_query": "광주 청년 주거 정책 관련 회의록"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 청년 주거 정책 회의록 검색",
+        "task_query": "서울 청년 주거 정책 관련 회의록"
+      }
+    ]
+  },
+  {
+    "query_id": 94,
+    "category": "mixed",
+    "original_query": "광주·서울 교통 분야의 대중교통 안전 문제 접근 방식을 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 대중교통 안전 문제 접근 방식 검색",
+        "task_query": "광주광역시 지방의회 대중교통 안전 문제 접근 방식"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 대중교통 안전 문제 접근 방식 검색",
+        "task_query": "서울특별시 지방의회 대중교통 안전 문제 접근 방식"
+      }
+    ]
+  },
+  {
+    "query_id": 95,
+    "category": "mixed",
+    "original_query": "두 지역의 더불어민주당 의원들이 제기한 복지 예산 문제를 비교 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "지역1 더불어민주당 복지 예산 문제",
+        "task_query": "지역1 더불어민주당 의원 복지 예산 문제"
+      },
+      {
+        "task_id": 2,
+        "name": "지역2 더불어민주당 복지 예산 문제",
+        "task_query": "지역2 더불어민주당 의원 복지 예산 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 96,
+    "category": "mixed",
+    "original_query": "광주 국민의힘과 서울 국민의힘이 각각 제기한 도시 안전 정책 문제를 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 국민의힘 도시 안전 정책 문제",
+        "task_query": "광주광역시 국민의힘 의원이 제기한 도시 안전 정책 문제"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 국민의힘 도시 안전 정책 문제",
+        "task_query": "서울특별시 국민의힘 의원이 제기한 도시 안전 정책 문제"
+      }
+    ]
+  },
+  {
+    "query_id": 97,
+    "category": "mixed",
+    "original_query": "광주·서울의 기후·환경 관련 논의 중 예산 편성 관점의 차이를 기사로 작성해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 기후 환경 예산 편성 논의 검색",
+        "task_query": "광주광역시 지방의회 기후 환경 관련 예산 편성 논의"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 기후 환경 예산 편성 논의 검색",
+        "task_query": "서울특별시 지방의회 기후 환경 관련 예산 편성 논의"
+      }
+    ]
+  },
+  {
+    "query_id": 98,
+    "category": "mixed",
+    "original_query": "광주 예산결산특별위원회와 서울 기획예산위원회의 예산 효율성 비판 구조를 비교해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 예산결산특별위원회 예산 효율성 비판",
+        "task_query": "광주 예산결산특별위원회 예산 효율성 비판"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 기획예산위원회 예산 효율성 비판",
+        "task_query": "서울 기획예산위원회 예산 효율성 비판"
+      }
+    ]
+  },
+  {
+    "query_id": 99,
+    "category": "mixed",
+    "original_query": "광주·서울 교육 관련 논의에서 등장한 학급당 학생 수 문제 접근 방식의 차이를 정리해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주 교육 학급당 학생 수 문제 접근 방식",
+        "task_query": "광주 교육 관련 학급당 학생 수 문제 접근 방식"
+      },
+      {
+        "task_id": 2,
+        "name": "서울 교육 학급당 학생 수 문제 접근 방식",
+        "task_query": "서울 교육 관련 학급당 학생 수 문제 접근 방식"
+      }
+    ]
+  },
+  {
+    "query_id": 100,
+    "category": "mixed",
+    "original_query": "광주광역시의회와 서울특별시의회에서 제기된 장애인 이동권 문제의 논의 차이를 비교 분석해 달라.",
+    "tasks": [
+      {
+        "task_id": 1,
+        "name": "광주광역시의회 장애인 이동권 논의",
+        "task_query": "광주광역시의회 장애인 이동권 문제 논의"
+      },
+      {
+        "task_id": 2,
+        "name": "서울특별시의회 장애인 이동권 논의",
+        "task_query": "서울특별시의회 장애인 이동권 문제 논의"
+      }
+    ]
+  }
+]

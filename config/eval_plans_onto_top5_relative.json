@@ -1,0 +1,1465 @@
+{
+  "1": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "교육문화 분야",
+      "학교 예산 집행 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "2": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "재개발 지역 교통 혼잡 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "3": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "미세먼지 대응"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "4": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "청년 일자리 정책 비판 발언"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "5": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "통학로 안전 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "6": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회 예산결산특별위원회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "예산 집행 부실 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "7": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "복지시설 인력 부족 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "8": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "CCTV 설치·운영 개선"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "9": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "공공임대주택 공급 부족 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "10": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "교통",
+      "시내버스 배차 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "11": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "학교 급식 질 개선"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "12": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "학교시설 노후화 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "13": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "반려동물 환경·정책 개선"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "14": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "장애인 이동권 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "15": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "도시철도 2호선 사업 쟁점"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "16": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "주차난 해소 정책"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "17": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "공공의료원 설립 필요성"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "18": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "기후위기 대응 예산 부족 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "19": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "경로당 냉난방비 지원 문제 제기"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "20": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "문화예술 지원 정책 형평성"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "21": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "대중교통 요금 인상 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "22": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "재개발로 인한 원주민 내몰림 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "23": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "청년 정신건강 지원"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "24": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "재정 건전성 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "25": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "전동 킥보드 안전사고"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "26": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "학급당 학생 수 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "27": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "탄소중립 정책"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "28": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "지하철 혼잡 완화 정책"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "29": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "소상공인 지원 정책"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "30": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "CCTV 설치 개선 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "31": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "노인 복지시설 운영 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "32": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "공공데이터 개방",
+      "쟁점"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "33": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "어린이 보호구역 교통안전 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "34": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "도시재생 정책",
+      "지역 격차 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "35": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "문화예술 지원 정책"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "36": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "지하철 역사 범죄 예방 대책"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "37": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "청년 복지 전달체계 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "38": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "성과평가 제도"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "39": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "도시철도 연장 사업",
+      "비용·효과"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "40": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "전월세 시장 안정화 정책 논의"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "41": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "임미란 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "예산"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "42": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "김동욱"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "교통안전 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "43": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "박수빈 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "복지 정책 비판 발언"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "44": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "황철규"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "청년 정책"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "45": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "이봉준"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "예산 감사 문제 제기"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "46": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "아이수루 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "대중교통 서비스 개선"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "47": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "김용호 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "디지털 행정 전환"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "48": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "박강산 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "젠트리피케이션 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "49": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "최호정"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "복지 전달체계 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "50": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "황유정"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "학교 안전 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "51": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "이병도"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "공공의료 확충 필요성"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "52": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "임규호"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "학생 안전",
+      "시설 개선"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "53": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "서상열"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "기후 대응 정책"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "54": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "박강산 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "임대료 상승 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "55": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "한신 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "문화예산 배분 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "56": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "박수빈 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "돌봄 인력 부족 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "57": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "이봉준"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "재정 효율성 문제 제기"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "58": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "김동욱 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "재개발",
+      "교통 복합 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "59": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "임미란"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "직업계고 관련 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "60": {
+    "query_type": "SINGLE",
+    "person_target": [
+      "박강산 의원"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "도시계획"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "61": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [
+      "더불어민주당"
+    ],
+    "topic_target": [
+      "복지 예산 문제 제기"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "62": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [
+      "국민의힘"
+    ],
+    "topic_target": [
+      "교통 인프라 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "63": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [
+      "더불어민주당"
+    ],
+    "topic_target": [
+      "청년 주거 문제"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "64": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [
+      "국민의힘"
+    ],
+    "topic_target": [
+      "도시 안전 정책 비판 발언"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "65": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [
+      "더불어민주당"
+    ],
+    "topic_target": [
+      "대중교통 요금 인상 반대 논의"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "66": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [
+      "국민의힘"
+    ],
+    "topic_target": [
+      "재정 건전성 강조 발언"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "67": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [
+      "더불어민주당"
+    ],
+    "topic_target": [
+      "기후 대응 정책 비판"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "68": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [
+      "국민의힘"
+    ],
+    "topic_target": [
+      "재개발 사업 문제 제기"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "69": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [
+      "더불어민주당"
+    ],
+    "topic_target": [
+      "문화예술 지원 정책 비판 발언"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "70": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [
+      "국민의힘"
+    ],
+    "topic_target": [
+      "세금 효율성 문제 제기"
+    ],
+    "comparison_axis": null,
+    "group_A_label": null,
+    "group_B_label": null
+  },
+  "71": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회"
+    ],
+    "party_target": [
+      "더불어민주당",
+      "국민의힘"
+    ],
+    "topic_target": [
+      "복지 예산 평가"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "더불어민주당",
+    "group_B_label": "국민의힘"
+  },
+  "72": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [
+      "두 정당"
+    ],
+    "topic_target": [
+      "대중교통 요금 인상"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "정당 A",
+    "group_B_label": "정당 B"
+  },
+  "73": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주시의회",
+      "서울시의회"
+    ],
+    "party_target": [
+      "두 정당"
+    ],
+    "topic_target": [
+      "기후위기 대응 정책"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "정당 A",
+    "group_B_label": "정당 B"
+  },
+  "74": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "서울특별시의회"
+    ],
+    "party_target": [
+      "두 정당"
+    ],
+    "topic_target": [
+      "예산",
+      "복지",
+      "정책 철학"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "정당 A",
+    "group_B_label": "정당 B"
+  },
+  "75": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [
+      "두 정당"
+    ],
+    "topic_target": [
+      "재개발·주거 정책 논쟁"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "정당 A",
+    "group_B_label": "정당 B"
+  },
+  "76": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [
+      "더불어민주당"
+    ],
+    "topic_target": [
+      "기후 예산 비판"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주 더불어민주당 의원",
+    "group_B_label": "서울 더불어민주당 의원"
+  },
+  "77": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [
+      "국민의힘"
+    ],
+    "topic_target": [
+      "재개발 정책 문제"
+    ],
+    "comparison_axis": "PERSON",
+    "group_A_label": "광주 국민의힘 의원",
+    "group_B_label": "서울 국민의힘 의원"
+  },
+  "78": {
+    "query_type": "COMPARISON",
+    "person_target": [
+      "임미란",
+      "박강산"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "주거·도시정비 문제 제기 방식"
+    ],
+    "comparison_axis": "PERSON",
+    "group_A_label": "광주 임미란 의원",
+    "group_B_label": "서울 박강산 의원"
+  },
+  "79": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [
+      "더불어민주당",
+      "국민의힘"
+    ],
+    "topic_target": [
+      "청년 일자리 문제"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주 더불어민주당",
+    "group_B_label": "서울 국민의힘"
+  },
+  "80": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "학생 안전"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "81": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "재정 건전성"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "정당별",
+    "group_B_label": null
+  },
+  "82": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [
+      "정당별"
+    ],
+    "topic_target": [
+      "대중교통 요금 논쟁"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "83": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [
+      "국민의힘",
+      "더불어민주당"
+    ],
+    "topic_target": [
+      "환경 정책 비판 논리"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주 국민의힘 의원",
+    "group_B_label": "서울 더불어민주당 의원"
+  },
+  "84": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "장애인 이동권 문제"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "85": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [
+      "더불어민주당",
+      "국민의힘"
+    ],
+    "topic_target": [
+      "어린이·노약자 안전 정책"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주 더불어민주당",
+    "group_B_label": "서울 국민의힘"
+  },
+  "86": {
+    "query_type": "COMPARISON",
+    "person_target": [
+      "김동욱",
+      "아이수루"
+    ],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "대중교통 서비스 비판"
+    ],
+    "comparison_axis": "PERSON",
+    "group_A_label": "광주 김동욱 의원",
+    "group_B_label": "서울 아이수루 의원"
+  },
+  "87": {
+    "query_type": "SINGLE",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "문화예술 지원 정책 논쟁"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "88": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [
+      "더불어민주당",
+      "국민의힘"
+    ],
+    "topic_target": [
+      "복지·돌봄 정책 문제"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "더불어민주당",
+    "group_B_label": "국민의힘"
+  },
+  "89": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "교육 복지 문제 접근 방식"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "90": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [],
+    "topic_target": [
+      "재난·안전 대응 정책 비판"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "91": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회",
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "교육 예산 집행 문제"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주광역시의회",
+    "group_B_label": "서울특별시의회"
+  },
+  "92": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "도시안전건설",
+      "도시계획",
+      "재개발 논쟁"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주 도시안전건설 분야",
+    "group_B_label": "서울 도시계획 분야"
+  },
+  "93": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "청년 주거 정책"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "94": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "대중교통 안전 문제 접근 방식"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "95": {
+    "query_type": "COMPARISON",
+    "person_target": [
+      "더불어민주당 의원"
+    ],
+    "council_target": [],
+    "party_target": [
+      "더불어민주당"
+    ],
+    "topic_target": [
+      "복지 예산 문제"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "지역 A",
+    "group_B_label": "지역 B"
+  },
+  "96": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [],
+    "party_target": [
+      "국민의힘 광주",
+      "국민의힘 서울"
+    ],
+    "topic_target": [
+      "도시 안전 정책 문제"
+    ],
+    "comparison_axis": "PARTY",
+    "group_A_label": "광주 국민의힘",
+    "group_B_label": "서울 국민의힘"
+  },
+  "97": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "기후",
+      "환경",
+      "예산 편성"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "98": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주 예산결산특별위원회",
+      "서울 기획예산위원회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "예산 효율성 비판 구조"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주 예산결산특별위원회",
+    "group_B_label": "서울 기획예산위원회"
+  },
+  "99": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주",
+      "서울"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "학급당 학생 수 문제 접근 방식"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주",
+    "group_B_label": "서울"
+  },
+  "100": {
+    "query_type": "COMPARISON",
+    "person_target": [],
+    "council_target": [
+      "광주광역시의회",
+      "서울특별시의회"
+    ],
+    "party_target": [],
+    "topic_target": [
+      "장애인 이동권 문제"
+    ],
+    "comparison_axis": "COUNCIL",
+    "group_A_label": "광주광역시의회",
+    "group_B_label": "서울특별시의회"
+  }
+}
